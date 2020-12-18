@@ -1,7 +1,7 @@
-<a href="https://github.com/beauwilliams/beauwilliams" align="center">
+<a align="center" href="https://github.com/beauwilliams/beauwilliams">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox" />
 </a>
-<a href="https://github.com/beauwilliams/beauwilliams" align="center">
+<a align="center" href="https://github.com/beauwilliams/beauwilliams" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=8&layout=compact&theme=gruvbox" />
 </a>
 <h1></h1>
