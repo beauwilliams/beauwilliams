@@ -6,7 +6,9 @@
 </a>
 
 # Check out my dotfiles for some vimscript and lua inspirations
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true" />
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true">
+</p>
 
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&theme=gruvbox)
 
