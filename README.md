@@ -6,20 +6,7 @@
 </a>
 
 # Check out my dotfiles for some vimscript and lua inspirations
-<a href="https://github.com/beauwilliams/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true" />
-</a>
-
-
-<style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
-}
-</style>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true" class="centerImage" alt="CH Logo" height="120" width="350">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true" />
 
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&theme=gruvbox)
 
