@@ -1,3 +1,5 @@
+![Beau's github stats](https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox)
+
 ### Hi there 👋
 
 <!--
