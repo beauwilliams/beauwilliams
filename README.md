@@ -1,7 +1,7 @@
 ![Beau's github stats](https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=8&layout=compact&theme=gruvbox)
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliamsa&repo=github-readme-stats&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=8&layout=compact&theme=gruvbox" />
