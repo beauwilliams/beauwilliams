@@ -9,6 +9,14 @@
 <a href="https://github.com/beauwilliams/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true" />
 </a>
+<table> 
+    <tr>
+        <td class="height" style="text-align: center; vertical-align: middle;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true" width=100 height=100 />
+        </td>
+    </tr>
+</table>
+
 
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&theme=gruvbox)
 
