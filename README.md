@@ -8,6 +8,8 @@
 - 😍 Passionate about vim, text editors and how we interface with our code
 - 👯 Looking to collaborate on [Vimage: The Automated Neovim Dev Env](https://github.com/beauwilliams/vimage)
 - 💬 Ask me about anything [here](https://github.com/beauwilliams/beauwilliams/issues)
+- ⚡ People describe me as: Adventurous
+- 🛴 Stuff I enjoy: Scootering/Skating, Mountain Biking, Surfing, Gardening, Cooking. Outdoors. Live life to the fullest!!
 
 <h1 align="center">
   My Stats
