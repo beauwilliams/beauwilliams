@@ -9,7 +9,7 @@
 - 👯 Looking to collaborate on [Vimage: The Automated Neovim Dev Env](https://github.com/beauwilliams/vimage)
 - 💬 Ask me about anything [here](https://github.com/beauwilliams/beauwilliams/issues)
 - ⚡ People describe me as.. Adventurous
-- 🛴 Stuff I enjoy.. Scootering/Skating, Mountain Biking, Surfing, Gardening, Cooking. Outdoors. Live life to the fullest!!
+- 🛴 Stuff I enjoy.. Scootering, Skating, Mountain Biking, Surfing, Gardening, Cooking. Outdoors. Live life to the fullest!!
 
 <h1 align="center">
   My Stats
