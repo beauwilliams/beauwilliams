@@ -10,6 +10,8 @@
 - 💬 Ask me about anything [here](https://github.com/beauwilliams/beauwilliams/issues)
 - ⚡ People describe me as.. Adventurous
 - 🛴 Stuff I enjoy.. Scootering, Skating, Mountain Biking, Surfing, Gardening, Cooking. Outdoors. Live life to the fullest!!
+- ⚡ Fun fact about me.. I won a best trick prize during the 2018 Sydney Street Scootering Jam
+
 
 <h1 align="center">
   My Stats
