@@ -5,6 +5,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=8&layout=compact&theme=gruvbox" />
 </a>
 
+<h alighn="center">
+  "Check it out"
+</h>
 ### Check out my dotfiles for some vimscript and lua inspirations 🤠
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true">
