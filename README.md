@@ -1,5 +1,4 @@
-![Beau's github stats](https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&layout=compact&theme=gruvbox)
+![Beau's github stats](https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&layout=compact&theme=gruvbox)
 
 <!--
 **beauwilliams/beauwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
