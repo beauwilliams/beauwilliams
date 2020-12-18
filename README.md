@@ -7,7 +7,7 @@
 <h1></h1>
 
 <h1 align="center">
-  Check it out
+  Check out my dotfiles for some vimscript / lua inspirations 🤠
 </h1>
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true">
