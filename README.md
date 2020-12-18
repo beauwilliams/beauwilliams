@@ -4,6 +4,9 @@
 <a href="https://github.com/beauwilliams/beauwilliams">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=8&layout=compact&theme=gruvbox" />
 </a>
+
+# Check out my dotfiles for some vimscript and lua inspirations
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true)](https://github.com/beauwilliams/dotfiles)
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&theme=gruvbox)
 
 <!--
