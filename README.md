@@ -1,9 +1,8 @@
 <p align="center" href="https://github.com/beauwilliams/beauwilliams">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox" />
-</p>
-<p align="center" href="https://github.com/beauwilliams/beauwilliams" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=8&layout=compact&theme=gruvbox" />
 </p>
+
 <h1></h1>
 
 <h1 align="center">
