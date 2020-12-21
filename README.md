@@ -18,7 +18,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/beauwilliams/beauwilliams">
+    <a href="https://github.com/beauwilliams/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=8&layout=compact&theme=gruvbox" />
     </a>
@@ -26,11 +26,11 @@
 
 <h1></h1>
 
-<h1 align="center" href="https://github.com/beauwilliams/beauwilliams/dotfiles">
+<h1 align="center">
   Check out my dotfiles for some vimscript / lua inspirations 🤠
 </h1>
 <p align="center">
-    <a href="https://github.com/beauwilliams/beauwilliams/dotfiles">
+    <a href="https://github.com/beauwilliams/Dotfiles">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true">
   </a>
 </p>
