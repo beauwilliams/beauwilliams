@@ -24,7 +24,7 @@
 
 <h1></h1>
 
-<h1 align="center">
+<h1 align="center" href="https://github.com/beauwilliams/beauwilliams/dotfiles">
   Check out my dotfiles for some vimscript / lua inspirations 🤠
 </h1>
 <p align="center">
