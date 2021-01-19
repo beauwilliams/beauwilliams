@@ -35,6 +35,15 @@
   </a>
 </p>
 
+<h1 align="center">
+  Or my newly released Coronavirus Status Notifier for OSX Devices 📊
+</h1>
+<p align="center">
+    <a href="https://github.com/beauwilliams/Coronavirus_Notifier">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=Coronavirus_Notifier&show_owner=true">
+  </a>
+</p>
+
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&theme=gruvbox)
 
 <!--
