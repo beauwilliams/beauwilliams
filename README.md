@@ -36,7 +36,7 @@
 </p>
 
 <h1 align="center">
-  Or my newly released Coronavirus Status Notifier for OSX Devices 📊
+  Or my newly released Coronavirus Daily Stats Notifification Service 📊
 </h1>
 <p align="center">
     <a href="https://github.com/beauwilliams/Coronavirus_Notifier">
