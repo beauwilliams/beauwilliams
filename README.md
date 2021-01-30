@@ -3,12 +3,12 @@
 <br />
 <br />
 
-- 🙈 Currently leading the Google Developer Student Club at Macquarie University [site](https://dscmq.dev)
-- 🌱 Currently learning me some lua with the hopes of releasing my own neovim plugin for a bit of fun
+- 🙈 Leading the Google Developer Student Club at Macquarie University [site](https://dscmq.dev)
+- 🌱 Enjoys dabbling with lua in the hopes of releasing my own neovim plugin for a bit of fun
 - 😍 Passionate about vim, text editors and how we interface with our code
 - 👯 Looking to collaborate on [Vimage: The Automated Neovim Dev Env](https://github.com/beauwilliams/vimage)
 - 💬 Ask me about anything [here](https://github.com/beauwilliams/beauwilliams/issues)
-- ⚡ People describe me as.. Adventurous
+- ⚡ People describe me as.. adventurous, lot's of energy!
 - ❤️ Stuff I enjoy.. Scootering, Skating, Mountain Biking, Surfing, Gardening, Cooking. Outdoors. Live life to the fullest!!
 - 🛴 Fun fact about me.. I won a best trick prize during the 2018 Sydney Street Scootering Jam
 
