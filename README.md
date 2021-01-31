@@ -34,7 +34,17 @@
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true">
   </a>
 </p>
-
+  
+ 
+ <h1 align="center">
+  My first ever major coding project, a lua based statusline for neovim! 🚀
+</h1>
+<p align="center">
+    <a href="https://github.com/beauwilliams/statusline.lua">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=statusline.lua&show_owner=true">
+  </a>
+</p>
+ 
 <h1 align="center">
   Or my newly released Coronavirus Daily Stats Notifification Service 📊
 </h1>
