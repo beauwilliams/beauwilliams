@@ -46,11 +46,11 @@
 </p>
  
 <h1 align="center">
-  Or my newly released Coronavirus Daily Stats Notifification Service 📊
+  Or my newly released focus.nvim - auto-focussing splits/windows for neovim 🔥
 </h1>
 <p align="center">
-    <a href="https://github.com/beauwilliams/Coronavirus_Notifier">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=Coronavirus_Notifier&show_owner=true">
+    <a href="https://github.com/beauwilliams/focus.nvim">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=focus.nvim&show_owner=true">
   </a>
 </p>
 
