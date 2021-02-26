@@ -54,6 +54,15 @@
   </a>
 </p>
 
+<h1 align="center">
+  Perhaps one of my workshops? 🤓
+</h1>
+<p align="center">
+    <a href="https://github.com/beauwilliams/Git-Workshop">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=Git-Workshop&show_owner=true">
+  </a>
+</p>
+
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&theme=gruvbox)
 
 <!--
