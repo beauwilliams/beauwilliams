@@ -46,7 +46,16 @@
 </p>
  
 <h1 align="center">
-  Or my newly released focus.nvim - auto-focussing splits/windows for neovim 🔥
+  focus.nvim - auto-focussing splits/windows for neovim 🔥
+</h1>
+<p align="center">
+    <a href="https://github.com/beauwilliams/focus.nvim">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=focus.nvim&show_owner=true">
+  </a>
+</p>
+
+<h1 align="center">
+  Or my newly released fzf-scratch - a note taking / scratchpad tool for cli fans 📝
 </h1>
 <p align="center">
     <a href="https://github.com/beauwilliams/focus.nvim">
