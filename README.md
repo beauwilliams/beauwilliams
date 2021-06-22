@@ -6,7 +6,7 @@
 - 🙈 Leading the Google Developer Student Club at Macquarie University [site](https://dscmq.dev)
 - 🌱 Enjoys dabbling with lua in the hopes of releasing my own neovim plugin for a bit of fun. **UPDATE: Released!** [statusline.lua](https://github.com/beauwilliams/statusline.lua)
 - 😍 Passionate about vim, text editors and how we interface with our code
-- 👯 Looking to collaborate on [Vimage: The Automated Neovim Dev Env](https://github.com/beauwilliams/vimage) && [statusline.lua](https://github.com/beauwilliams/statusline.lua)
+- 👯 Looking to collaborate on [Vimage: The Automated Neovim Dev Env](https://github.com/beauwilliams/vimage) && [statusline.lua](https://github.com/beauwilliams/statusline.lua) && [focus.nvim](https://github.com/beauwilliams/focus.nvim) && [fzf-scratch](https://github.com/beauwilliams/fzf-scratch)
 - 💬 Ask me about anything [here](https://github.com/beauwilliams/beauwilliams/issues)
 - ⚡ People describe me as.. adventurous, lot's of energy!
 - ❤️ Stuff I enjoy.. Scootering, Skating, Mountain Biking, Surfing, Gardening, Cooking. Outdoors. Live life to the fullest!!
