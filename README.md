@@ -55,7 +55,7 @@
 </p>
 
 <h1 align="center">
-  Or my newly released fzf-scratch - a note taking / scratchpad tool for cli fans 📝
+  Or my newly released fzf-scratch - a note taking tool for cli fans 📝
 </h1>
 <p align="center">
     <a href="https://github.com/beauwilliams/focus.nvim">
