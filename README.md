@@ -58,8 +58,8 @@
   Or my newly released fzf-scratch - a note taking tool for cli fans 📝
 </h1>
 <p align="center">
-    <a href="https://github.com/beauwilliams/focus.nvim">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=focus.nvim&show_owner=true">
+    <a href="https://github.com/beauwilliams/fzf-scratch">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=fzf-scratch&show_owner=true">
   </a>
 </p>
 
