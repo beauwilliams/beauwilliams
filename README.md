@@ -4,7 +4,7 @@
 <br />
 
 - 🙈 Leading the Google Developer Student Club at Macquarie University [site](https://dscmq.dev)
-- 🌱 Enjoys writing nvim plugins and other neat tools focussed on helping developers be more productive
+- 🌱 Enjoys writing nvim plugins and other neat tools focussed on helping developers be more productive on the side
 - 😍 Passionate about vim, text editors and how we interface with our code
 - 👯 Looking to collaborate on [Vimage: The Automated Neovim Dev Env](https://github.com/beauwilliams/vimage) && [statusline.lua](https://github.com/beauwilliams/statusline.lua) && [focus.nvim](https://github.com/beauwilliams/focus.nvim) && [fzf-scratch](https://github.com/beauwilliams/fzf-scratch)
 - 💬 Ask me about anything [here](https://github.com/beauwilliams/beauwilliams/issues)
@@ -69,6 +69,15 @@
 <p align="center">
     <a href="https://github.com/beauwilliams/Git-Workshop">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=Git-Workshop&show_owner=true">
+  </a>
+</p>
+
+<h1 align="center">
+  Maybe a project I have contributed to? 🙇‍♂️
+</h1>
+<p align="center">
+    <a href="https://github.com/camspiers/snap">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=camspiers&repo=snap&show_owner=true">
   </a>
 </p>
 
