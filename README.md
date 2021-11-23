@@ -55,11 +55,11 @@
 </p>
 
 <h1 align="center">
-  Or my newly released fzf-scratch - a note taking tool for cli fans 📝
+  Or my newly released awesome-fzf library. A community repo of fzf scripts and awesome functions 😍📝
 </h1>
 <p align="center">
-    <a href="https://github.com/beauwilliams/fzf-scratch">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=fzf-scratch&show_owner=true">
+    <a href="https://github.com/beauwilliams/awesome-fzf">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=awesome-fzf&show_owner=true">
   </a>
 </p>
 
