@@ -27,7 +27,7 @@
 <h1></h1>
 
   <h1 align="center">
-  My most popular project, focus.nvim - auto-focussing splits/windows for neovim 🔥
+  My most popular project, auto-focussing splits/windows for neovim 🔥
 </h1>
 <p align="center">
     <a href="https://github.com/beauwilliams/focus.nvim">
