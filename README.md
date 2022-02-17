@@ -26,15 +26,14 @@
 
 <h1></h1>
 
-<h1 align="center">
-  Check out my dotfiles for some vimscript / lua inspirations 🤠
+  <h1 align="center">
+  My most popular project, focus.nvim - auto-focussing splits/windows for neovim 🔥
 </h1>
 <p align="center">
-    <a href="https://github.com/beauwilliams/Dotfiles">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true">
+    <a href="https://github.com/beauwilliams/focus.nvim">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=focus.nvim&show_owner=true">
   </a>
 </p>
-  
  
  <h1 align="center">
   My first ever major coding project, a lua based statusline for neovim! 🚀
@@ -45,12 +44,13 @@
   </a>
 </p>
  
+
 <h1 align="center">
-  focus.nvim - auto-focussing splits/windows for neovim 🔥
+  Check out my dotfiles for some vimscript / lua inspirations 🤠
 </h1>
 <p align="center">
-    <a href="https://github.com/beauwilliams/focus.nvim">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=focus.nvim&show_owner=true">
+    <a href="https://github.com/beauwilliams/Dotfiles">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=dotfiles&show_owner=true">
   </a>
 </p>
 
