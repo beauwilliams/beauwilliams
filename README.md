@@ -36,7 +36,7 @@
 </p>
  
  <h1 align="center">
-  My first ever major coding project, a lua based statusline for neovim! 🚀
+  My first ever major coding project, lua based statusline for neovim! 🚀
 </h1>
 <p align="center">
     <a href="https://github.com/beauwilliams/statusline.lua">
