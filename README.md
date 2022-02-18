@@ -44,6 +44,16 @@
   </a>
 </p>
  
+ 
+
+<h1 align="center">
+  I built an NFT marketplace template so you don't have to 😃
+</h1>
+<p align="center">
+    <a href="https://github.com/beauwilliams/demo-next-typescript-hardhat-marketplace">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=demo-next-typescript-hardhat-marketplace&show_owner=true">
+  </a>
+</p>
 
 <h1 align="center">
   Check out my dotfiles for some vimscript / lua inspirations 🤠
