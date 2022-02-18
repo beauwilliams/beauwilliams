@@ -47,7 +47,7 @@
  
 
 <h1 align="center">
-  I built an NFT marketplace template so you don't have to 😃
+  ..I built an NFT marketplace template so you don't have to 😃
 </h1>
 <p align="center">
     <a href="https://github.com/beauwilliams/demo-next-typescript-hardhat-marketplace">
