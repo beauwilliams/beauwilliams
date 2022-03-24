@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://github.com/beauwilliams/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox&include_all_commits=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox&include_all_commits=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=12&layout=compact&theme=gruvbox" />
     </a>
 </p>
