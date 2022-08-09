@@ -1,7 +1,6 @@
 # Hey there, I'm [Beau!](https://beauwilliams.dev) 👋
 
 <br />
-<br />
 
 - 🌱 Enjoys writing vim plugins and other neat tools focussed on helping developers be more productive in my spare time
 - 😍 Passionate about vim, text editors and how we interface with our code. Neovim for life ✊
