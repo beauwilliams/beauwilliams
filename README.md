@@ -1,3 +1,7 @@
+<h1 align="center">
+  About Me
+</h1>
+
 ### Hey there, I'm [Beau!](https://beauwilliams.dev) 👋
 
 <br />
