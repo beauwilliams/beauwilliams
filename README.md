@@ -18,9 +18,9 @@
 
 <p align="center">
     <a href="https://github.com/beauwilliams/">
-  <img height="100%" width="100%" src ="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=00000000">
-  <img height="100%" width="100%" src ="https://github-readme-streak-stats.herokuapp.com?user=beauwilliams&theme=gruvbox&hide_border=true&background=FFFFFF00">
-  <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=12&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" />
+  <img height="60%" width="70%" src ="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=00000000">
+  <img height="60%" width="70%" src ="https://github-readme-streak-stats.herokuapp.com?user=beauwilliams&theme=gruvbox&hide_border=true&background=FFFFFF00">
+  <img height="60%" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=12&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" />
   <!-- <img height="100%" width="100%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> -->
  <img src ="https://github.com/beauwilliams/beauwilliams/blob/output/github-contribution-grid-snake.svg">
     </a>
