@@ -20,6 +20,10 @@
     <a href="https://github.com/beauwilliams/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&theme=gruvbox&include_all_commits=false" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&langs_count=12&layout=compact&theme=gruvbox" />
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=beauwilliams&theme=gruvbox&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> -->
+ <img src ="https://github.com/beauwilliams/beauwilliams/blob/output/github-contribution-grid-snake.svg">
     </a>
 </p>
 
@@ -33,7 +37,7 @@
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=focus.nvim&show_owner=true">
   </a>
 </p>
- 
+
  <h1 align="center">
   My first ever major coding project, lua based statusline for neovim! 🚀
 </h1>
@@ -42,8 +46,8 @@
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=statusline.lua&show_owner=true">
   </a>
 </p>
- 
- 
+
+
 
 <h1 align="center">
   ..I built an NFT marketplace template so you don't have to 😃
