@@ -1,8 +1,4 @@
-<h1 align="center">
-  About Me
-</h1>
-
-### Hey there, I'm [Beau!](https://beauwilliams.dev) 👋
+# Hey there, I'm [Beau!](https://beauwilliams.dev) 👋
 
 <br />
 <br />
@@ -14,11 +10,6 @@
 - ⚡ People describe me as.. adventurous, lot's of energy!
 - ❤️ Stuff I enjoy.. Scootering, Skating, Mountain Biking, Surfing, Gardening, Cooking. Outdoors. Live life to the fullest!!
 - 🛴 Fun fact about me.. I won a best trick prize during the 2018 Sydney Street Scootering Jam
-
-
-<h1 align="center">
-  My Stats
-</h1>
 
 <p align="center">
     <a href="https://github.com/beauwilliams/">
