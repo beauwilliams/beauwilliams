@@ -42,7 +42,6 @@
 </p>
 
 
-
 <h1 align="center">
   ..I built an NFT marketplace template so you don't have to 😃
 </h1>
