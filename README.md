@@ -53,7 +53,7 @@
 </p>
 
 <h1 align="center">
-  Or perhaps you might like to develop your own smart contracts? 👷‍♀️
+  Or perhaps you might like to develop your own solidity contracts? 👷‍♀️
 </h1>
 <p align="center">
    <a href="https://github.com/beauwilliams/Hardhat-Starter-Template">
