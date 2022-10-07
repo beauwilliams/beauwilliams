@@ -42,6 +42,14 @@
   </a>
 </p>
 
+ <h1 align="center">
+  Learn how to create a ZKSNARK using circom and solidity with my example
+</h1>
+<p align="center">
+    <a href="https://github.com/beauwilliams/Solidity-Hardhat-Circom-SnarkJs-Example">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=Solidity-Hardhat-Circom-SnarkJs-Example&show_owner=true">
+  </a>
+</p>
 
 <h1 align="center">
   ..I built an NFT marketplace template so you don't have to 😃
