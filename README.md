@@ -43,7 +43,7 @@
 </p>
 
  <h1 align="center">
-  Learn how to create a ZKSNARK using circom and solidity with my example
+  Learn how to create a ZKSNARK for ethereum using circom and solidity
 </h1>
 <p align="center">
     <a href="https://github.com/beauwilliams/Solidity-Hardhat-Circom-SnarkJs-Example">
