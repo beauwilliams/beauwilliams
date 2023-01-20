@@ -60,6 +60,16 @@
   </a>
 </p>
 
+
+<h1 align="center">
+  Or here is a more fleshed out production-grade solidity marketplace contract
+</h1>
+<p align="center">
+    <a href="[https://github.com/beauwilliams/demo-next-typescript-hardhat-marketplace](https://github.com/africarare/Africarare-NFT-Marketplace-Contract)">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=africarare&repo=Africarare-NFT-Marketplace-Contract&show_owner=true">
+  </a>
+</p>
+
 <h1 align="center">
   Or perhaps you might like to develop your own solidity contracts? 👷‍♀️
 </h1>
