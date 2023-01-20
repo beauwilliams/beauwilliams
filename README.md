@@ -62,7 +62,7 @@
 
 
 <h1 align="center">
-  Or here is a more fleshed out production-grade solidity marketplace contract
+  Production-grade solidity marketplace contract built with a pattern I coined (Validate-Mutate-Finalize) 
 </h1>
 <p align="center">
     <a href="[https://github.com/beauwilliams/demo-next-typescript-hardhat-marketplace](https://github.com/africarare/Africarare-NFT-Marketplace-Contract)">
