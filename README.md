@@ -65,7 +65,7 @@
   Production-grade solidity marketplace contract built with a pattern I coined (Validate-Mutate-Finalize) 
 </h1>
 <p align="center">
-    <a href="[https://github.com/beauwilliams/demo-next-typescript-hardhat-marketplace](https://github.com/africarare/Africarare-NFT-Marketplace-Contract)">
+    <a href="[https://github.com/africarare/Africarare-NFT-Marketplace-Contract](https://github.com/africarare/Africarare-NFT-Marketplace-Contract)">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=africarare&repo=Africarare-NFT-Marketplace-Contract&show_owner=true">
   </a>
 </p>
