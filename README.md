@@ -62,11 +62,11 @@
 
 
 <h1 align="center">
-  Production-grade solidity marketplace contract built with a pattern I coined (Validate-Mutate-Finalize) 
+  Or perhaps you might like to develop your own solidity contracts? 👷‍♀️
 </h1>
 <p align="center">
-    <a href="[https://github.com/africarare/Africarare-NFT-Marketplace-Contract](https://github.com/africarare/Africarare-NFT-Marketplace-Contract)">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=africarare&repo=Africarare-NFT-Marketplace-Contract&show_owner=true">
+   <a href="https://github.com/beauwilliams/Hardhat-Starter-Template">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=beauwilliams&repo=Hardhat-Starter-Template&show_owner=true">
   </a>
 </p>
 
