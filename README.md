@@ -62,7 +62,7 @@
 
 
 <h1 align="center">
-  A production grade marketplace contract based on my Validate-Mutate-Finalise solidity pattern
+  A marketplace written in solidity with unit tests 
 </h1>
 <p align="center">
    <a href="https://github.com/africarare/Africarare-NFT-Marketplace-Contract">
