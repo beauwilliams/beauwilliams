@@ -110,6 +110,11 @@
   Maybe a project I have contributed to? 🙇‍♂️
 </h1>
 <p align="center">
+    <a href="https://github.com/BuilderIO/ai-shell">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=BuilderIOs&repo=ai-shell&show_owner=true">
+  </a>
+</p>
+<p align="center">
     <a href="https://github.com/camspiers/snap">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=camspiers&repo=snap&show_owner=true">
   </a>
