@@ -1,7 +1,14 @@
 Hey, I'm Beau 👋. I build agents, the rails they pay on, and the tools around them.
 
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=beauwilliams&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=00000000" alt="GitHub stats">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=beauwilliams&theme=gruvbox&hide_border=true&background=FFFFFF00" alt="Contribution streak">
+</p>
+
 ### 2026: agent harnesses and agentic commerce
-- [urzua](https://github.com/urzuahq/urzua): an AI-native engine for structured records, plus the harness around it: [garita](https://github.com/urzuahq/garita), a deterministic gate for agent-authored change, and [decision-agent-kit](https://github.com/urzuahq/decision-agent-kit)
+- [urzua](https://github.com/urzuahq/urzua): an AI-native engine for structured records
+- [garita](https://github.com/urzuahq/garita): a deterministic gate for agent-authored change, with one verdict for agents, git hooks and CI
+- [decision-agent-kit](https://github.com/urzuahq/decision-agent-kit): lets coding-agent harnesses ask a decision model about the session
 - [taskmarket](https://taskmarket.dev): a protocol for agents to post, take and settle work. [Docs](https://docs.taskmarket.dev) · [contracts](https://github.com/daydreamsai/taskmarket-contracts)
 - Also: [skills-market](https://github.com/daydreamsai/skills-market), [oxygen](https://github.com/beauwilliams/oxygen), [ralph-code](https://github.com/beauwilliams/ralph-code)
 
@@ -25,10 +32,16 @@ Hey, I'm Beau 👋. I build agents, the rails they pay on, and the tools around 
 ### 2021: the Neovim era
 - [focus.nvim](https://github.com/nvim-focus/focus.nvim), [statusline.lua](https://github.com/beauwilliams/statusline.lua), [awesome-fzf](https://github.com/beauwilliams/awesome-fzf)
 - [MarQuick](https://github.com/MarQuick-Team/MarQuick), a WYSIWYG-style Markdown extension for VS Code
-- Ran Macquarie University's Google Developer Student Club
+- Led Macquarie University's Google Developer Student Club, running workshops on [Git](https://github.com/beauwilliams/Git-Workshop), [Android](https://github.com/beauwilliams/Android-Study-Jams), [DevOps](https://github.com/Macquarie-University-DSC/devops_primer_workshop), [sysadmin](https://github.com/Macquarie-University-DSC/sysadmin_workshop) and [Elm and Elixir](https://github.com/Macquarie-University-DSC/elm_elixir_workshop), plus the [Solution Challenge](https://github.com/beauwilliams/Google-DSC-Solutions-Challenge-Australia) for Australian chapters
 
 ### 2020: where it started
-- [Dotfiles](https://github.com/beauwilliams/Dotfiles), [Vimage](https://github.com/beauwilliams/Vimage), Microsoft Student Accelerator workshops
+- [Dotfiles](https://github.com/beauwilliams/Dotfiles), [Vimage](https://github.com/beauwilliams/Vimage), Microsoft Student Accelerator workshops on [AzureML](https://github.com/beauwilliams/MSA-AUS-2020-AzureML) and [web APIs](https://github.com/beauwilliams/MSA-AUS-2020-FlaskWebsite)
+
+### Just for fun
+- [imnotaquitter.vim](https://github.com/beauwilliams/imnotaquitter.vim): don't be a quitter, be a real one
+- [fzf-cheat.sh](https://github.com/beauwilliams/fzf-cheat.sh): the ultimate cheat.sh wrapper, powered by fzf
+- [Golang-get-me-some-beer](https://github.com/beauwilliams/Golang-get-me-some-beer): a Go project to get you some beer
+- [Alfred-Logitech-Mouse-Daemon-Killer](https://github.com/beauwilliams/Alfred-Logitech-Mouse-Daemon-Killer): for when the mouse freezes, again
 
 [beauwilliams.dev](https://beauwilliams.dev)
 
