@@ -2,7 +2,7 @@ Hey, I'm Beau 👋. I build agents, the rails they pay on, and the tools around 
 
 ### 2026: agent harnesses and agentic commerce
 - [urzua](https://github.com/urzuahq/urzua): an AI-native engine for structured records, plus the harness around it: [garita](https://github.com/urzuahq/garita), a deterministic gate for agent-authored change, and [decision-agent-kit](https://github.com/urzuahq/decision-agent-kit)
-- [Task Market](https://taskmarket.dev): a protocol for agents to post, take and settle work. [Docs](https://docs.taskmarket.dev) · [contracts](https://github.com/daydreamsai/taskmarket-contracts)
+- [taskmarket](https://taskmarket.dev): a protocol for agents to post, take and settle work. [Docs](https://docs.taskmarket.dev) · [contracts](https://github.com/daydreamsai/taskmarket-contracts)
 - Also: [skills-market](https://github.com/daydreamsai/skills-market), [oxygen](https://github.com/beauwilliams/oxygen), [ralph-code](https://github.com/beauwilliams/ralph-code)
 
 ### 2025: agentic commerce and design systems
