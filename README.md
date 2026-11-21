@@ -1,3 +1,41 @@
+Hey, I'm Beau 👋. I build agents, the rails they pay on, and the tools around them.
+
+### 2026: agent harnesses and agentic commerce
+- [urzua](https://github.com/urzuahq/urzua): an AI-native engine for structured records, plus the harness around it: [garita](https://github.com/urzuahq/garita), a deterministic gate for agent-authored change, and [decision-agent-kit](https://github.com/urzuahq/decision-agent-kit)
+- [Task Market](https://taskmarket.dev): a protocol for agents to post, take and settle work. [Docs](https://docs.taskmarket.dev) · [contracts](https://github.com/daydreamsai/taskmarket-contracts)
+- Also: [skills-market](https://github.com/daydreamsai/skills-market), [oxygen](https://github.com/beauwilliams/oxygen), [ralph-code](https://github.com/beauwilliams/ralph-code)
+
+### 2025: agentic commerce and design systems
+- [lucid-agents](https://github.com/daydreamsai/lucid-agents): built Daydreams' agent commerce SDK, for agents that can pay, sell and transact
+- [facilitator](https://github.com/daydreamsai/facilitator): x402 payment settlement
+- [expose-app](https://github.com/ExposeFinance/expose-app): a voice-controlled crypto wallet
+- Design systems: [clafoutis](https://github.com/Dessert-Labs/clafoutis), a GitOps-powered design system generator, plus contributions to [style-dictionary-tailwindcss-transformer](https://github.com/nado1001/style-dictionary-tailwindcss-transformer)
+
+### 2024: blockchain account abstraction and gas
+- CTO at JOINN
+- Servo Labs: gas hedging and gas abstraction
+- [PayWizard](https://github.com/beauwilliams/PayWizard): manages paymaster fleets with JIT liquidity
+- [authaa](https://github.com/authaa/authaa): an open-source embedded wallet
+
+### 2022–23: Playubu and blockchain-based marketplaces
+- Lead blockchain engineer: a [blockchain-based marketplace](https://github.com/africarare/Africarare-NFT-Marketplace-Contract), [land contracts](https://github.com/africarare/Africarare-Land-Contract) and a [Nedbank ticketing contract](https://github.com/africarare/Nedbank-Ticketing-Contract)
+- Solidity and zk deep dives: a [Hardhat starter](https://github.com/beauwilliams/Solidity-Hardhat-Starter-Template), [CREATE2 multichain deploys](https://github.com/beauwilliams/Solidity-Multichain-Deployments-Shared-Address), [Circom zk-SNARKs](https://github.com/beauwilliams/Solidity-Hardhat-Circom-SnarkJs-Example), a [reentrancy walkthrough](https://github.com/beauwilliams/Solidity-Reentrancy-Attack-Example)
+- Contributions to [ai-shell](https://github.com/BuilderIO/ai-shell), [thirdweb](https://github.com/thirdweb-dev/js) and [multipass](https://github.com/canonical/multipass)
+
+### 2021: the Neovim era
+- [focus.nvim](https://github.com/nvim-focus/focus.nvim), [statusline.lua](https://github.com/beauwilliams/statusline.lua), [awesome-fzf](https://github.com/beauwilliams/awesome-fzf)
+- [MarQuick](https://github.com/MarQuick-Team/MarQuick), a WYSIWYG-style Markdown extension for VS Code
+- Ran Macquarie University's Google Developer Student Club
+
+### 2020: where it started
+- [Dotfiles](https://github.com/beauwilliams/Dotfiles), [Vimage](https://github.com/beauwilliams/Vimage), Microsoft Student Accelerator workshops
+
+[beauwilliams.dev](https://beauwilliams.dev)
+
+<details>
+<summary>🕰️ The 2023 README, kept for nostalgia</summary>
+<br />
+
 # Hey there, I'm [Beau!](https://beauwilliams.dev) 👋
 
 <br />
@@ -121,19 +159,5 @@
 
 
 
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=beauwilliams&theme=gruvbox)
 
-<!--
-**beauwilliams/beauwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ....
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
+</details>
